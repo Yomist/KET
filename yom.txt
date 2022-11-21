@@ -1,0 +1,93 @@
+privacy princple
+
+5th STorage limitation when completing a project with a 3rd party supllier, u must ensure to request that the third party properly xispose of the tek peronal data persona darta shoyld not be archived longer intented period
+
+6ht Reasonable precautoions should be taken to secure personal data agianst accidental or unlaeful deletion or loss. alteration, unaiuthorixed disclosure, or access, including tose processed by third parties.	
+
+
+7th privacy princicple deal with the right of individual ensures that oersibak data is processed according to the right individual that the peronal data relates to
+
+8th Onward transfer of personla dat a shoyuld not be trandfered to 3rd party or another country unless there is aasuranc that an adequate level of privacy us in place
+
+9th demostrate conplaince and caccomtability tek m,ust be resposible abd be able to demonstrar compalinand porotecting our client and reputation
+
+
+Individial right with regard to Personal data
+
+definition under gdopr
+
+1 data subject this is any indiddual to whome the data belong
+2 conroler legal person which alone or jointly which determine the purposes or means of 
+processing data
+3 processor is a legal person that procsss the data on behalf of the controller
+
+4 personal data is any info that leads to the identification of an individual eg name and id number
+
+5 pirpose of processing specific porpose of processsing the ingfo
+6 processing any operation performed on personal fata collected.
+
+vatious right theat data subjects has
+
+Access 
+data subjecty shall have access of the copy of data
+
+Rectification data subject shall be ablr to correct or complete their personaldata
+
+
+Eeasure consent to erase 
+restreiciion of processinfg
+
+
+
+data breach is any incident that inpacts the congidentiality integrity or avaulabilityu of persona; data within an otganization e.g loss of laptop pr email to someone by mistake, weakness in physical security.. breach must be reported within 72hrs from detection to the data protection suoervisory authorithy
+
+SUbject Access Reqeuest. is a request from a data subject regaarding personal data held by an organization if identity of the data subject is not verified before disclosure, SAR is seen as a data security breach.
+queries from cients or customers should be directed to Global Service Line Leaders and Data oprotection officer for immeduate resolutions
+
+Examples of Privacy Incidents
+loss of personal data
+unauthorized access to personal data
+sharing unnecassary data
+MISUSE OF PERSONAL DATA
+
+MITIGATIONS
+Gather the facts and promptly report the incident to your site Manager
+
+Consult with your Line Manager or Global sevice lIne leader of the incident is client related.
+Do not notify  the clidnt or any other external party, without consultation
+
+Things to remeber after every incident
+1. Reporting it properly and quickly
+2.do not try to deal with it on your own escalate to your line manager
+
+
+
+Sensitive or Special Category Personal Data is required to be handled with additional care.
+
+
+The correct answers are: Political opinions, Religious beliefs, Sexual preference, Membership to a trade union
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
